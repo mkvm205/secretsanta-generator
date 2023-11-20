@@ -1,4 +1,6 @@
-#Test1
+#Test1 
+#Test2
+
 FROM openjdk:8u151-jdk-alpine3.7
   
 EXPOSE 8080
